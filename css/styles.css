@@ -1,0 +1,26 @@
+/*Nina Kong*/
+body {
+    font-family: Dosis, arial, sans-serif;
+    font-size: 20px;
+}
+.container {
+	background: url("../img/Background.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+/*Ultility*/
+.align-center {
+	text-align: center;
+}
+.align-left {
+	text-align: left;
+}
+.align-right {
+	text-align: right;
+}
+.float-right {
+	float: right;
+}
+.padding-0 {
+	padding: 0;
+}
